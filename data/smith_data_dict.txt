@@ -1,0 +1,8 @@
+* ai_id: Analyst Institute unique ID
+* message_treat: treatment assignment
+* age: age
+* race: modeled race
+* gender: modeled gender
+* partisanscore: score ranging from 0 - 100 predicting likelihood of supporting Democrats. Higher = more likely to support Democrats.
+* outcome: survey response after treatment, only exists for those surveyed
+* turnout2014: 1 if person voted in 2014 general elections, 0 otherwise
